@@ -1,14 +1,14 @@
-HIRABAI
+#'HIRABAI'
 
-This project is started with an intention to develop an Order Management application with smart analytics for small businesses. 
+This project is started with an intention to develop an Order Management application with smart analytics for small businesses. <br>
 
-PRE-REQUIREMENT
-NODE 
-NPM
-YARN
-CREATE-REACT-APP
-REACT-ADMIN
-MONGODB
+PRE-REQUIREMENT<br>
+NODE <br>
+NPM<br>
+YARN<br>
+CREATE-REACT-APP<br>
+REACT-ADMIN<br>
+MONGODB<br>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
