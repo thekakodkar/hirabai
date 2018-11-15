@@ -1,8 +1,9 @@
-#'HIRABAI'
+## HIRABAI
 
-This project is started with an intention to develop an Order Management application with smart analytics for small businesses. <br>
+This project is started with an intention to develop an Order Management application with smart analytics for small businesses. Suggestion, Edits welcome <br>
 
-PRE-REQUIREMENT<br>
+### PRE-REQUIREMENT
+<br>
 NODE <br>
 NPM<br>
 YARN<br>
@@ -10,6 +11,12 @@ CREATE-REACT-APP<br>
 REACT-ADMIN<br>
 MONGODB<br>
 
+## Installation
+
+1. clone or download the repo
+2. npm Install
+
+You can see the live demo [here](http://hirabai.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -55,5 +62,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-Demo : http://hirabai.herokuapp.com/

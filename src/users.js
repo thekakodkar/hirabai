@@ -1,5 +1,5 @@
 import React from 'react';
-import { List, Datagrid, TextField, EmailField, UrlField } from 'react-admin';
+import { List, Datagrid, TextField, EmailField } from 'react-admin';
 import  HbUrlField from './HbUrlField';
 
 export const UserList = props => (

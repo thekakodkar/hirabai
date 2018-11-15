@@ -25,4 +25,14 @@ class App extends Component {
   }
 }
 
+//Datgrid sample
+//<Datagrid>
+  //  <TextField source="id" />
+  //  <ReferenceField source="userId" reference="users">
+    //    <TextField source="name" />
+    //</ReferenceField>
+  ////  <TextField source="title" />
+  //  <EditButton />
+//  </Datagrid>
+
 export default App;
